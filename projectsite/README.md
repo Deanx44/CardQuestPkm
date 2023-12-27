@@ -1,3 +1,3 @@
 # cardquest-master-app
 
-https://aceuuu08.pythonanywhere.com/
+https://deanx44.pythonanywhere.com/
